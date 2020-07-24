@@ -8,3 +8,4 @@
    Click on the left on ‘Discover’ and on ‘Create Index Pattern’. Create a pattern using ‘*’ and ‘@timestamp’.
    Now click on discover and verify the logs.
 
+
